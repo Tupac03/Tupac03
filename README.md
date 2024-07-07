@@ -8,9 +8,7 @@ Welcome to my page. My name is Tupac, and I am a university student at Central M
 
 My expeirences have led me to the cybersecurity field, and my objective is to find an oppurtunity to get my foot in the door to further enhance my skills as a cybersecurity professional. 
 ## Skills
-
-
-| Skill                                          
+                                          
 |-----------------------------------------------|----------------------------|
 
 Java – Eclipse 
