@@ -59,5 +59,11 @@ Incident Response
 
 <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 
+## Organizations
+
+CMU Cybersecurity Club
+Blacks In Cyber (BIC)
+NSBE
+
 ## Projects
 - Wireshark for Basic Network Security Analysis
