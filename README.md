@@ -1,13 +1,13 @@
 # Wireshark for Basic Network Security Analysis
 
 ## Objective
-[Brief Objective - Remove this afterwards]
 
 Learning how to capture some network traffic that is flowing through your machine now and analyzing already captured network traffic by opening a stored capture file in Wireshark. We'll learn the differences between Wireshark Capture and Display Filters.
 
 Generating, capturing analyzing RADIUS, HTTP, DNS and Telnet Traffic. We will also go through Decrypting RADIUS password.
 
 Generating, capturing analyzing encrypted protocols such as SSH and HTTPS .. also we will decrypt HTTPS Traffic.
+
 ### Skills Learned
 
 - Capture and filter network packets
@@ -15,7 +15,6 @@ Generating, capturing analyzing encrypted protocols such as SSH and HTTPS .. als
 - Utilize Wireshark tools for effective network troubleshooting
 
 ### Tools Used
-[Bullet Points - Remove this afterwards]
 
 - Wireshark
 - Powershell
