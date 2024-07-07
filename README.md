@@ -62,7 +62,9 @@ Incident Response
 ## Organizations
 
 CMU Cybersecurity Club
+
 Blacks In Cyber (BIC)
+
 NSBE
 
 ## Projects
