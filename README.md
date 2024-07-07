@@ -1,4 +1,4 @@
-# Hello, I'm Tupac Holmes
+# Grettings Viewer, I'm Tupac 
 <a href="https://www.linkedin.com/in/tupacholmes/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 Welcome to my page. My name is Tupac, and I am a university student at Central Michigan University and on track to graduate December 2025. I am aiming to step into the cybersecurity field and become a multi-fascted profesional. I encourage you to connect with me on LinkedIn to see all the cool stuff I'm involved in.
