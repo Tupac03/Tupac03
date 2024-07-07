@@ -1,41 +1,60 @@
-# Wireshark for Basic Network Security Analysis
+# Hello, I'm Tupac Holmes
+<a href="https://www.linkedin.com/in/tupacholmes/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+
+[Brief Introduction - Remove this afterwards]
+
+I am a recent graduate with a profound interest in technology and a dedication to solving complex problems.
 
 ## Objective
+[Provide Objective - Remove this afterwards]]
 
-Learning how to capture some network traffic that is flowing through your machine now and analyzing already captured network traffic by opening a stored capture file in Wireshark. We'll learn the differences between Wireshark Capture and Display Filters.
+My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
 
-Generating, capturing analyzing RADIUS, HTTP, DNS and Telnet Traffic. We will also go through Decrypting RADIUS password.
+## Skills
+[Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
 
-Generating, capturing analyzing encrypted protocols such as SSH and HTTPS .. also we will decrypt HTTPS Traffic.
+| Skill                                         | Associated Project         |
+|-----------------------------------------------|----------------------------|
+| SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
+| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
+| Security Automation with Shuffle SOAR         | SOC Automation Lab|
+| Incident Response Planning and Execution      | SOC Automation Lab|
+| Case Management with TheHive                  | SOC Automation Lab|
+| Scripting and Automation for Threat Mitigation | SOC Automation Lab|
 
-### Skills Learned
+## Tools
+[Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
 
-- Capture and filter network packets
-- Detect anomalies and suspicious activities
-- Utilize Wireshark tools for effective network troubleshooting
+### Network
+<div>
+    <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Suricata-EF3B2D?&style=for-the-badge&logo=Suricata&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Zeek-777BB4?&style=for-the-badge&logo=Zeek&logoColor=white" />
+</div>
 
-### Tools Used
+### Endpoint
+<div>
+    <img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Velociraptor-4B275F?&style=for-the-badge&logo=Velociraptor&logoColor=white" />
+</div>
 
-- Wireshark
-- Powershell
-- Command Prompt
-- RADIUS Server
+### SIEM
+<div>
+    <img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
+</div>
 
-## Steps
-![Screenshot 2024-07-07 170415](https://github.com/Tupac03/Tupac03/assets/139032673/0e185b68-c190-429a-a178-36f6a17a2750)
-In this specific part, I generated some network traffic to begin.
+## Certifications
+[Provide certifications that you have obtained. Use ChatGPT to help create the link - Remove this afterwards]]
+<div>
+<img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
+<img src="https://img.shields.io/badge/-Network%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" />
+<img src="https://img.shields.io/badge/-A%2B-4D4D4D?&style=for-the-badge&logo=CompTIA&logoColor=white" />
+<img src="https://img.shields.io/badge/-CDSA-006400?&style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/-CCD-000080?&style=for-the-badge&logoColor=white" />
+</div>
 
-![Screenshot 2024-07-07 170715](https://github.com/Tupac03/Tupac03/assets/139032673/c61f3202-e854-4580-a99d-519b1d5a137f)
-Created a key file to execute in WireShark to unencrpyt nrtwork traffic and applied it.
-
-![image](https://github.com/Tupac03/Tupac03/assets/139032673/a2994e57-fc70-4c70-8ca3-a3b941afb3da)
-Ran the caputure filter once more, and looked into the conversations of the traffic
-
-![image](https://github.com/Tupac03/Tupac03/assets/139032673/38f07079-5df7-48ad-87ed-e0adef11028b)
-Used a link within the course to utilize a server to ping.
-
-![image](https://github.com/Tupac03/Tupac03/assets/139032673/dbdb6da4-5387-4c05-a42e-e7610a1bb04e)
-Utilized command prompt to ping the server.
-
-![image](https://github.com/Tupac03/Tupac03/assets/139032673/6db2b23f-8a46-4083-bfca-68e4b23f325c)
-Followed to stream to ensure that the information was unecrypted.
+## Projects
+- Detection Lab
+- SOC Automation Project
